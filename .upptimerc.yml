@@ -53,11 +53,10 @@ sites:
     __dangerous__body_degraded: '{"service": "JupyterHub API", "ok": false}'
 
 status-website:
-  baseUrl: /test_status_page
-  logoUrl: https://raw.githubusercontent.com/gesiscss/orc/master/load_balancer/static/images/logo/logo_new.svg
-  name: "GESIS Notebooks"
-#   introTitle: "GESIS notebooks"
-  introMessage: "Status page tracking various services running at GESIS notebooks. This status page tracks the deployed Persistent BinderHub, BinderHub (available through mybinder.org), and Gallery."
+  baseUrl: /uptime
+  logoUrl: https://avatars3.githubusercontent.com/u/7595082?s=200&v=4
+  name: "GESIS WTS Services"
+  introMessage: "Status page tracking various projects and services run by the WTS department at GESIS."
   navbar:
     - title: Status
       href: /uptime
