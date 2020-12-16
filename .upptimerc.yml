@@ -29,29 +29,47 @@ sites:
     url: https://vocabularies.cessda.eu
   - name: GESIS Notebooks
     url: https://notebooks.gesis.org
+    assignees:
+      - MridulS
   - name: GESIS Notebooks - BinderHub
     url: https://notebooks.gesis.org/binder
+    assignees:
+      - MridulS
   - name: GESIS Notebooks - Gallery
     url: https://notebooks.gesis.org/gallery/
+    assignees:
+      - MridulS
  # Hackish way to check the JSON fields
   - name: Persistent BinderHub - Health
     url: https://notebooks.gesis.org/services/binder/health
     __dangerous__body_degraded: '{"ok": false,'
+    assignees:
+      - MridulS
   - name: Persistent BinderHub - Docker
     url: https://notebooks.gesis.org/services/binder/health
     __dangerous__body_degraded: '{"service": "Docker registry", "ok": false}'
+    assignees:
+      - MridulS
   - name: Persistent BinderHub - Hub API
     url: https://notebooks.gesis.org/services/binder/health
     __dangerous__body_degraded: '{"service": "JupyterHub API", "ok": false}'
+    assignees:
+      - MridulS
   - name: BinderHub - Health
     url: https://notebooks.gesis.org/binder/health
     __dangerous__body_degraded: '{"ok": false,'
+    assignees:
+      - MridulS
   - name: BinderHub - Docker
     url: https://notebooks.gesis.org/binder/health
     __dangerous__body_degraded: '{"service": "Docker registry", "ok": false}'
+    assignees:
+      - MridulS
   - name: BinderHub - Hub API
     url: https://notebooks.gesis.org/binder/health
     __dangerous__body_degraded: '{"service": "JupyterHub API", "ok": false}'
+    assignees:
+      - MridulS
 
 status-website:
   baseUrl: /uptime
