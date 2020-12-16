@@ -20,8 +20,9 @@ sites:
     url: https://multiweb.gesis.org/qeditor
   - name: GESIS Missy
     url: https://www.gesis.org/missy
+  # HTTPS certificate expired?
   - name: leibnizopen
-    url: https://www.leibnizopen.de/suche/handle/document/113707
+    url: http://www.leibnizopen.de/suche/handle/document/113707
   - name: DA-RA
     url: https://www.da-ra.de/dara/mydara
   - name: vocabularies
