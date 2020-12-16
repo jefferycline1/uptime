@@ -149,18 +149,18 @@
     "icon": "https://favicons.githubusercontent.com/www.leibnizopen.de",
     "slug": "leibnizopen",
     "status": "down",
-    "uptime": "4.96%",
-    "uptimeDay": "4.96%",
-    "uptimeWeek": "4.96%",
-    "uptimeMonth": "4.96%",
-    "uptimeYear": "4.96%",
+    "uptime": "1.15%",
+    "uptimeDay": "1.15%",
+    "uptimeWeek": "1.15%",
+    "uptimeMonth": "1.15%",
+    "uptimeYear": "1.15%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-16": 0
+      "2020-12-16": 1
     }
   },
   {
