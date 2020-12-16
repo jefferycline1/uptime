@@ -1,10 +1,32 @@
 # Change these first
-owner: MridulS # Your GitHub username
-repo: test_status_page # Your Github repository name
+owner: GESISWTS  # Your GitHub username
+repo: uptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: GESIS Notebooks - Persistent BinderHub
+  - name: ZIS
+    url: https://zis.gesis.org
+  - name: x-science
+    url: https://www.x-science.org/xscience/#!Home
+  - name: x-econ.org
+    url: https://x-econ.org/xecon/#!Home
+  - name: GESIS Login
+    url: https://login.gesis.org
+  - name: Data Sharing
+    url: https://data.gesis.org/sharing/#!Home
+  - name: qeditor - app
+    url: https://multiweb.gesis.org/labs/apps/qeditor
+  - name: qeditor
+    url: https://multiweb.gesis.org/qeditor
+  - name: GESIS Missy
+    url: https://www.gesis.org/missy
+  - name: leibnizopen
+    url: https://www.leibnizopen.de/suche/handle/document/113707
+  - name: DA-RA
+    url: https://www.da-ra.de/dara/mydara
+  - name: vocabularies
+    url: https://vocabularies.cessda.eu
+  - name: GESIS Notebooks
     url: https://notebooks.gesis.org
   - name: GESIS Notebooks - BinderHub
     url: https://notebooks.gesis.org/binder
@@ -38,9 +60,9 @@ status-website:
   introMessage: "Status page tracking various services running at GESIS notebooks. This status page tracks the deployed Persistent BinderHub, BinderHub (available through mybinder.org), and Gallery."
   navbar:
     - title: Status
-      href: /test_status_page
+      href: /uptime
     - title: GitHub
-      href: https://github.com/gesiscss/orc
+      href: https://github.com/gesiswts/uptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
