@@ -314,19 +314,19 @@
     "url": "https://notebooks.gesis.org/binder/health",
     "icon": "https://favicons.githubusercontent.com/notebooks.gesis.org",
     "slug": "binder-hub-health",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 557,
-    "timeDay": 596,
-    "timeWeek": 557,
-    "timeMonth": 557,
-    "timeYear": 557,
+    "status": "up",
+    "uptime": "98.53%",
+    "uptimeDay": "89.47%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "98.53%",
+    "uptimeYear": "98.53%",
+    "time": 593,
+    "timeDay": 714,
+    "timeWeek": 593,
+    "timeMonth": 593,
+    "timeYear": 593,
     "dailyMinutesDown": {
-      "2020-12-21": 0
+      "2020-12-21": 152
     }
   },
   {
@@ -334,19 +334,19 @@
     "url": "https://notebooks.gesis.org/binder/health",
     "icon": "https://favicons.githubusercontent.com/notebooks.gesis.org",
     "slug": "binder-hub-docker",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 156,
-    "timeDay": 163,
-    "timeWeek": 156,
-    "timeMonth": 156,
-    "timeYear": 156,
+    "status": "up",
+    "uptime": "98.53%",
+    "uptimeDay": "89.47%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "98.53%",
+    "uptimeYear": "98.53%",
+    "time": 154,
+    "timeDay": 156,
+    "timeWeek": 154,
+    "timeMonth": 154,
+    "timeYear": 154,
     "dailyMinutesDown": {
-      "2020-12-21": 0
+      "2020-12-21": 152
     }
   },
   {
@@ -354,19 +354,19 @@
     "url": "https://notebooks.gesis.org/binder/health",
     "icon": "https://favicons.githubusercontent.com/notebooks.gesis.org",
     "slug": "binder-hub-hub-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 280,
-    "timeDay": 155,
-    "timeWeek": 280,
-    "timeMonth": 280,
-    "timeYear": 280,
+    "status": "up",
+    "uptime": "98.53%",
+    "uptimeDay": "89.47%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "98.53%",
+    "uptimeYear": "98.53%",
+    "time": 268,
+    "timeDay": 152,
+    "timeWeek": 268,
+    "timeMonth": 268,
+    "timeYear": 268,
     "dailyMinutesDown": {
-      "2020-12-21": 0
+      "2020-12-21": 152
     }
   }
 ]
