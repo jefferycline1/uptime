@@ -187,18 +187,18 @@
     "icon": "https://favicons.githubusercontent.com/vocabularies.cessda.eu",
     "slug": "vocabularies",
     "status": "down",
-    "uptime": "64.67%",
-    "uptimeDay": "64.67%",
-    "uptimeWeek": "64.67%",
-    "uptimeMonth": "64.67%",
-    "uptimeYear": "64.67%",
+    "uptime": "47.03%",
+    "uptimeDay": "47.03%",
+    "uptimeWeek": "47.03%",
+    "uptimeMonth": "47.03%",
+    "uptimeYear": "47.03%",
     "time": 510,
     "timeDay": 523,
     "timeWeek": 475,
     "timeMonth": 510,
     "timeYear": 510,
     "dailyMinutesDown": {
-      "2021-01-04": 0
+      "2021-01-04": 1
     }
   },
   {
