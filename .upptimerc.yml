@@ -25,7 +25,8 @@ sites:
     url: http://www.leibnizopen.de/suche/handle/document/113707
   - name: DA-RA
     url: https://www.da-ra.de/dara/mydara
-
+  - name: vocabularies
+    url: https://vocabularies.cessda.eu
   - name: GESIS Notebooks
     url: https://notebooks.gesis.org
     assignees:
