@@ -186,19 +186,19 @@
     "url": "https://vocabularies.cessda.eu",
     "icon": "https://favicons.githubusercontent.com/vocabularies.cessda.eu",
     "slug": "vocabularies",
-    "status": "down",
-    "uptime": "47.03%",
-    "uptimeDay": "47.03%",
-    "uptimeWeek": "47.03%",
-    "uptimeMonth": "47.03%",
-    "uptimeYear": "47.03%",
-    "time": 510,
-    "timeDay": 523,
-    "timeWeek": 475,
-    "timeMonth": 510,
-    "timeYear": 510,
+    "status": "up",
+    "uptime": "0.75%",
+    "uptimeDay": "0.75%",
+    "uptimeWeek": "0.75%",
+    "uptimeMonth": "0.75%",
+    "uptimeYear": "0.75%",
+    "time": 509,
+    "timeDay": 515,
+    "timeWeek": 478,
+    "timeMonth": 509,
+    "timeYear": 509,
     "dailyMinutesDown": {
-      "2021-01-04": 1
+      "2021-01-04": 96
     }
   },
   {
