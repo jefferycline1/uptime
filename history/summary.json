@@ -188,9 +188,9 @@
     "url": "https://vocabularies.cessda.eu",
     "icon": "https://favicons.githubusercontent.com/vocabularies.cessda.eu",
     "slug": "vocabularies",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -199,7 +199,9 @@
     "timeWeek": 475,
     "timeMonth": 510,
     "timeYear": 510,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-04": 0
+    }
   },
   {
     "name": "GESIS Notebooks",
