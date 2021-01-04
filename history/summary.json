@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1526,
-    "timeDay": 2244,
-    "timeWeek": 1505,
-    "timeMonth": 1526,
-    "timeYear": 1526,
+    "time": 1575,
+    "timeDay": 2418,
+    "timeWeek": 1645,
+    "timeMonth": 1575,
+    "timeYear": 1575,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 571,
-    "timeDay": 522,
-    "timeWeek": 493,
-    "timeMonth": 571,
-    "timeYear": 571,
+    "time": 566,
+    "timeDay": 490,
+    "timeWeek": 485,
+    "timeMonth": 566,
+    "timeYear": 566,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 564,
-    "timeDay": 538,
-    "timeWeek": 466,
-    "timeMonth": 564,
-    "timeYear": 564,
+    "time": 557,
+    "timeDay": 482,
+    "timeWeek": 455,
+    "timeMonth": 557,
+    "timeYear": 557,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 943,
-    "timeDay": 900,
-    "timeWeek": 866,
-    "timeMonth": 943,
-    "timeYear": 943,
+    "time": 930,
+    "timeDay": 809,
+    "timeWeek": 840,
+    "timeMonth": 930,
+    "timeYear": 930,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 677,
-    "timeDay": 674,
-    "timeWeek": 594,
-    "timeMonth": 677,
-    "timeYear": 677,
+    "time": 669,
+    "timeDay": 609,
+    "timeWeek": 581,
+    "timeMonth": 669,
+    "timeYear": 669,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 668,
-    "timeDay": 664,
-    "timeWeek": 593,
-    "timeMonth": 668,
-    "timeYear": 668,
+    "time": 661,
+    "timeDay": 603,
+    "timeWeek": 580,
+    "timeMonth": 661,
+    "timeYear": 661,
     "dailyMinutesDown": {}
   },
   {
@@ -118,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 275,
-    "timeWeek": 258,
-    "timeMonth": 287,
-    "timeYear": 287,
+    "time": 284,
+    "timeDay": 253,
+    "timeWeek": 253,
+    "timeMonth": 284,
+    "timeYear": 284,
     "dailyMinutesDown": {}
   },
   {
@@ -136,11 +136,11 @@
     "uptimeWeek": "99.43%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
-    "time": 803,
-    "timeDay": 788,
-    "timeWeek": 745,
-    "timeMonth": 803,
-    "timeYear": 803,
+    "time": 793,
+    "timeDay": 711,
+    "timeWeek": 727,
+    "timeMonth": 793,
+    "timeYear": 793,
     "dailyMinutesDown": {
       "2021-01-01": 58
     }
@@ -151,19 +151,17 @@
     "icon": "https://favicons.githubusercontent.com/www.leibnizopen.de",
     "slug": "leibnizopen",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 806,
-    "timeDay": 828,
-    "timeWeek": 726,
-    "timeMonth": 806,
-    "timeYear": 806,
-    "dailyMinutesDown": {
-      "2020-12-16": 8
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 800,
+    "timeDay": 773,
+    "timeWeek": 719,
+    "timeMonth": 800,
+    "timeYear": 800,
+    "dailyMinutesDown": {}
   },
   {
     "name": "DA-RA",
@@ -176,11 +174,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2550,
-    "timeDay": 2214,
-    "timeWeek": 2238,
-    "timeMonth": 2550,
-    "timeYear": 2550,
+    "time": 2529,
+    "timeDay": 2151,
+    "timeWeek": 2214,
+    "timeMonth": 2529,
+    "timeYear": 2529,
     "dailyMinutesDown": {}
   },
   {
@@ -190,7 +188,7 @@
     "slug": "vocabularies",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -199,9 +197,7 @@
     "timeWeek": 475,
     "timeMonth": 510,
     "timeYear": 510,
-    "dailyMinutesDown": {
-      "2021-01-04": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GESIS Notebooks",
@@ -214,11 +210,11 @@
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 1185,
-    "timeDay": 797,
-    "timeWeek": 1727,
-    "timeMonth": 1185,
-    "timeYear": 1185,
+    "time": 1167,
+    "timeDay": 770,
+    "timeWeek": 1635,
+    "timeMonth": 1167,
+    "timeYear": 1167,
     "dailyMinutesDown": {
       "2021-01-02": 31
     }
@@ -234,11 +230,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 359,
-    "timeDay": 329,
-    "timeWeek": 309,
-    "timeMonth": 359,
-    "timeYear": 359,
+    "time": 356,
+    "timeDay": 315,
+    "timeWeek": 307,
+    "timeMonth": 356,
+    "timeYear": 356,
     "dailyMinutesDown": {}
   },
   {
@@ -252,11 +248,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2341,
-    "timeDay": 2570,
-    "timeWeek": 2488,
-    "timeMonth": 2341,
-    "timeYear": 2341,
+    "time": 2356,
+    "timeDay": 2626,
+    "timeWeek": 2516,
+    "timeMonth": 2356,
+    "timeYear": 2356,
     "dailyMinutesDown": {}
   }
 ]
