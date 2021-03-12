@@ -4,6 +4,8 @@ repo: uptime # Your Github repository name
 
 # Add your sites here
 sites:
+  - name: GitLab
+    url: https://git.gesis.org
   - name: ZIS
     url: https://zis.gesis.org
   - name: x-science
