@@ -1,7 +1,7 @@
 url: https://zis.gesis.org
-status: up
-code: 200
-responseTime: 1118
-lastUpdated: 2021-03-14T23:19:37.396Z
+status: down
+code: 503
+responseTime: 2401
+lastUpdated: 2021-03-15T10:42:43.171Z
 startTime: Wed Dec 16 2020 09:04:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
