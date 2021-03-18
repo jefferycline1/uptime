@@ -1,7 +1,7 @@
 url: https://data.gesis.org/sharing/#!Home
-status: down
-code: 503
-responseTime: 594
-lastUpdated: 2021-03-18T15:23:31.970Z
+status: up
+code: 200
+responseTime: 780
+lastUpdated: 2021-03-18T16:39:05.374Z
 startTime: Wed Dec 16 2020 09:04:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
