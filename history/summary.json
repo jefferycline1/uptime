@@ -16,7 +16,7 @@
     "timeMonth": 855,
     "timeYear": 834,
     "dailyMinutesDown": {
-      "2021-04-16": 1208,
+      "2021-04-16": 1232,
       "2021-04-15": 1440,
       "2021-04-14": 1440,
       "2021-04-13": 1440,
@@ -311,7 +311,7 @@
     "url": "https://notebooks.gesis.org",
     "icon": "https://favicons.githubusercontent.com/notebooks.gesis.org",
     "slug": "gesis-notebooks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
