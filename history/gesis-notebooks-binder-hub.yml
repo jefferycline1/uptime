@@ -1,7 +1,7 @@
 url: https://notebooks.gesis.org/binder
-status: up
-code: 200
-responseTime: 300
-lastUpdated: 2021-04-21T14:34:04.899Z
+status: down
+code: 503
+responseTime: 93
+lastUpdated: 2021-04-21T17:14:54.382Z
 startTime: Mon Dec 14 2020 16:27:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
