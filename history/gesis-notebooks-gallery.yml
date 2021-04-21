@@ -1,7 +1,7 @@
 url: https://notebooks.gesis.org/gallery/
-status: down
-code: 503
-responseTime: 98
-lastUpdated: 2021-04-20T23:23:00.110Z
+status: up
+code: 200
+responseTime: 2642
+lastUpdated: 2021-04-21T04:32:04.351Z
 startTime: Mon Dec 14 2020 16:27:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
