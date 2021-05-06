@@ -22,7 +22,6 @@ sites:
     url: https://multiweb.gesis.org/qeditor
   - name: GESIS Missy
     url: https://www.gesis.org/missy
-  # HTTPS certificate expired?
   - name: leibnizopen
     url: http://www.leibnizopen.de/suche/handle/document/113707
   - name: DA-RA
