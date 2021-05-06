@@ -33,14 +33,6 @@ sites:
     url: https://notebooks.gesis.org
     assignees:
       - MridulS
-  - name: GESIS Notebooks - BinderHub
-    url: https://notebooks.gesis.org/binder
-    assignees:
-      - MridulS
-  - name: GESIS Notebooks - Gallery
-    url: https://notebooks.gesis.org/gallery/
-    assignees:
-      - MridulS
 
 status-website:
   baseUrl: /uptime
