@@ -1,7 +1,7 @@
 url: https://multiweb.gesis.org/qeditor
-status: up
-code: 200
-responseTime: 202
-lastUpdated: 2021-09-26T23:17:51.543Z
+status: down
+code: 503
+responseTime: 94
+lastUpdated: 2021-09-27T14:42:17.534Z
 startTime: Wed Dec 16 2020 09:04:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
