@@ -1,7 +1,7 @@
 url: https://notebooks.gesis.org
-status: up
-code: 200
-responseTime: 654
-lastUpdated: 2021-10-20T06:14:46.512Z
+status: down
+code: 503
+responseTime: 317
+lastUpdated: 2021-10-20T08:46:53.256Z
 startTime: Wed Dec 16 2020 09:04:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
