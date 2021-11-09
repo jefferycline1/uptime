@@ -1,7 +1,7 @@
 url: https://login.gesis.org
-status: up
-code: 200
-responseTime: 774
-lastUpdated: 2021-11-08T23:19:16.945Z
+status: down
+code: 502
+responseTime: 1547
+lastUpdated: 2021-11-09T21:52:51.456Z
 startTime: Wed Dec 16 2020 09:04:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
