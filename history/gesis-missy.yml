@@ -1,7 +1,7 @@
 url: https://www.gesis.org/missy
-status: down
-code: 503
-responseTime: 582
-lastUpdated: 2022-05-27T09:58:25.272Z
+status: up
+code: 200
+responseTime: 835
+lastUpdated: 2022-05-27T10:29:17.760Z
 startTime: Wed Dec 16 2020 09:04:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
