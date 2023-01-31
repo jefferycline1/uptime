@@ -33,7 +33,7 @@
     "uptimeYear": "99.31%",
     "time": 5253,
     "timeDay": 15849,
-    "timeWeek": 13495,
+    "timeWeek": 12414,
     "timeMonth": 13274,
     "timeYear": 5634,
     "dailyMinutesDown": {
@@ -87,7 +87,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.x-science.org.ico",
     "slug": "x-science",
     "status": "down",
-    "uptime": "47.02%",
+    "uptime": "47.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -98,7 +98,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-30": 1399,
+      "2023-01-31": 70,
+      "2023-01-30": 1440,
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
@@ -461,8 +462,7 @@
       "2022-02-04": 1440,
       "2022-02-03": 1440,
       "2022-02-02": 1440,
-      "2022-02-01": 1440,
-      "2022-01-31": 1440
+      "2022-02-01": 1440
     }
   },
   {
@@ -497,7 +497,7 @@
     "status": "up",
     "uptime": "96.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "65.40%",
+    "uptimeWeek": "66.49%",
     "uptimeMonth": "45.07%",
     "uptimeYear": "94.89%",
     "time": 888,
@@ -663,7 +663,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.27%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "60.74%",
+    "uptimeYear": "60.76%",
     "time": 1037,
     "timeDay": 1078,
     "timeWeek": 1066,
@@ -815,8 +815,7 @@
       "2022-02-04": 1440,
       "2022-02-03": 1440,
       "2022-02-02": 1440,
-      "2022-02-01": 1440,
-      "2022-01-31": 1440
+      "2022-02-01": 1440
     }
   },
   {
