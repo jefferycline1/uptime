@@ -1,7 +1,7 @@
 url: https://vocabularies.cessda.eu
-status: up
-code: 200
-responseTime: 422
-lastUpdated: 2023-04-03T23:15:33.499Z
+status: down
+code: 503
+responseTime: 426
+lastUpdated: 2023-04-04T09:34:46.154Z
 startTime: Mon Jan 04 2021 19:20:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
