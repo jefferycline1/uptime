@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 877,
-    "timeDay": 1048,
-    "timeWeek": 806,
-    "timeMonth": 814,
+    "timeDay": 733,
+    "timeWeek": 791,
+    "timeMonth": 811,
     "timeYear": 918,
     "dailyMinutesDown": {
       "2023-01-25": 108,
@@ -31,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.28%",
-    "time": 6297,
-    "timeDay": 2079,
-    "timeWeek": 2110,
-    "timeMonth": 5040,
+    "time": 6295,
+    "timeDay": 1301,
+    "timeWeek": 2121,
+    "timeMonth": 4264,
     "timeYear": 7059,
     "dailyMinutesDown": {
       "2023-03-31": 17,
@@ -83,7 +83,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.x-science.org.ico",
     "slug": "x-science",
     "status": "down",
-    "uptime": "42.13%",
+    "uptime": "42.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -94,7 +94,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-01": 66,
+      "2023-05-02": 63,
+      "2023-05-01": 1440,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
@@ -457,8 +458,7 @@
       "2022-05-06": 1440,
       "2022-05-05": 1440,
       "2022-05-04": 1440,
-      "2022-05-03": 1440,
-      "2022-05-02": 1440
+      "2022-05-03": 1440
     }
   },
   {
@@ -473,9 +473,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 534,
-    "timeDay": 532,
-    "timeWeek": 503,
-    "timeMonth": 565,
+    "timeDay": 493,
+    "timeWeek": 498,
+    "timeMonth": 564,
     "timeYear": 554,
     "dailyMinutesDown": {
       "2023-01-25": 31,
@@ -496,11 +496,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "95.32%",
-    "time": 870,
-    "timeDay": 856,
-    "timeWeek": 732,
-    "timeMonth": 779,
-    "timeYear": 870,
+    "time": 869,
+    "timeDay": 540,
+    "timeWeek": 696,
+    "timeMonth": 770,
+    "timeYear": 869,
     "dailyMinutesDown": {
       "2023-04-04": 22,
       "2023-01-26": 568,
@@ -522,8 +522,7 @@
       "2023-01-10": 1440,
       "2023-01-09": 454,
       "2022-10-21": 150,
-      "2022-05-10": 195,
-      "2022-05-02": 173
+      "2022-05-10": 195
     }
   },
   {
@@ -537,10 +536,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.38%",
     "uptimeYear": "99.32%",
-    "time": 508,
-    "timeDay": 525,
-    "timeWeek": 536,
-    "timeMonth": 523,
+    "time": 509,
+    "timeDay": 495,
+    "timeWeek": 543,
+    "timeMonth": 509,
     "timeYear": 529,
     "dailyMinutesDown": {
       "2023-04-14": 489,
@@ -556,8 +555,7 @@
       "2022-05-19": 16,
       "2022-05-06": 29,
       "2022-05-04": 137,
-      "2022-05-03": 121,
-      "2022-05-02": 118
+      "2022-05-03": 121
     }
   },
   {
@@ -566,18 +564,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/multiweb.gesis.org.ico",
     "slug": "qeditor-app",
     "status": "down",
-    "uptime": "93.10%",
+    "uptime": "92.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "83.70%",
+    "uptimeYear": "83.42%",
     "time": 649,
-    "timeDay": 530,
-    "timeWeek": 450,
-    "timeMonth": 489,
+    "timeDay": 440,
+    "timeWeek": 438,
+    "timeMonth": 486,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2023-05-01": 66,
+      "2023-05-02": 63,
+      "2023-05-01": 1440,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
@@ -656,11 +655,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 346,
-    "timeDay": 685,
-    "timeWeek": 536,
-    "timeMonth": 580,
-    "timeYear": 373,
+    "time": 347,
+    "timeDay": 429,
+    "timeWeek": 521,
+    "timeMonth": 576,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2023-03-01": 20,
       "2023-01-25": 29,
@@ -672,8 +671,7 @@
       "2022-09-14": 31,
       "2022-07-27": 575,
       "2022-07-26": 536,
-      "2022-05-30": 21,
-      "2022-05-02": 227
+      "2022-05-30": 21
     }
   },
   {
@@ -688,9 +686,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 728,
-    "timeDay": 868,
-    "timeWeek": 704,
-    "timeMonth": 808,
+    "timeDay": 691,
+    "timeWeek": 708,
+    "timeMonth": 805,
     "timeYear": 748,
     "dailyMinutesDown": {
       "2022-05-27": 31
@@ -702,16 +700,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.leibnizopen.de.ico",
     "slug": "leibnizopen",
     "status": "up",
-    "uptime": "64.87%",
+    "uptime": "64.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.42%",
-    "time": 1069,
-    "timeDay": 1363,
-    "timeWeek": 1040,
-    "timeMonth": 1096,
-    "timeYear": 1069,
+    "uptimeYear": "85.69%",
+    "time": 1068,
+    "timeDay": 837,
+    "timeWeek": 1022,
+    "timeMonth": 1086,
+    "timeYear": 1068,
     "dailyMinutesDown": {
       "2023-01-25": 74,
       "2022-11-02": 15,
@@ -767,8 +765,7 @@
       "2022-05-06": 1440,
       "2022-05-05": 1440,
       "2022-05-04": 1440,
-      "2022-05-03": 1440,
-      "2022-05-02": 1440
+      "2022-05-03": 1440
     }
   },
   {
@@ -783,9 +780,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 879,
-    "timeDay": 1183,
-    "timeWeek": 926,
-    "timeMonth": 892,
+    "timeDay": 700,
+    "timeWeek": 893,
+    "timeMonth": 885,
     "timeYear": 896,
     "dailyMinutesDown": {
       "2023-02-06": 18,
@@ -808,9 +805,9 @@
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.74%",
     "time": 461,
-    "timeDay": 573,
-    "timeWeek": 460,
-    "timeMonth": 466,
+    "timeDay": 329,
+    "timeWeek": 447,
+    "timeMonth": 463,
     "timeYear": 449,
     "dailyMinutesDown": {
       "2023-04-04": 22,
@@ -834,8 +831,8 @@
     "uptimeMonth": "81.20%",
     "uptimeYear": "94.78%",
     "time": 738,
-    "timeDay": 1011,
-    "timeWeek": 810,
+    "timeDay": 690,
+    "timeWeek": 812,
     "timeMonth": 719,
     "timeYear": 761,
     "dailyMinutesDown": {
