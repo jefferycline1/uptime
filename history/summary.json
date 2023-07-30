@@ -86,7 +86,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-29": 1408,
+      "2023-07-30": 65,
+      "2023-07-29": 1440,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
@@ -449,8 +450,7 @@
       "2022-08-03": 1440,
       "2022-08-02": 1440,
       "2022-08-01": 1440,
-      "2022-07-31": 1440,
-      "2022-07-30": 1440
+      "2022-07-31": 1440
     }
   },
   {
@@ -552,14 +552,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "59.27%",
+    "uptimeYear": "59.26%",
     "time": 653,
     "timeDay": 444,
     "timeWeek": 472,
     "timeMonth": 626,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2023-07-29": 1408,
+      "2023-07-30": 65,
+      "2023-07-29": 1440,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
@@ -767,7 +768,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.leibnizopen.de.ico",
     "slug": "leibnizopen",
     "status": "up",
-    "uptime": "68.17%",
+    "uptime": "68.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -813,9 +814,9 @@
     "slug": "vocabularies",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.73%",
     "time": 477,
     "timeDay": 538,
@@ -823,7 +824,6 @@
     "timeMonth": 806,
     "timeYear": 484,
     "dailyMinutesDown": {
-      "2023-07-29": 11,
       "2023-07-25": 36,
       "2023-04-04": 22,
       "2023-04-03": 282,
